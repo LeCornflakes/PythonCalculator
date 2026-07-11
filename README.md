@@ -25,4 +25,4 @@ _Add a screenshot of the calculator here._
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/novapulse-calculator.git
+git clone https://github.com/LeCornflakes/StarCalc.git
