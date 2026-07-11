@@ -11,7 +11,7 @@ A simple calculator inspired by the **Stardance** theme.
 - 🖥️ Simple graphical interface
 - ⚡ Fast and easy calculations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Tkinter (Graphical User Interface)
