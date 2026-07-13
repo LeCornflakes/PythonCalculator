@@ -33,7 +33,7 @@ st.text_input(
     disabled=True
 )
 
-col1, col2, col3, col4 = st.collumns(4)
+col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     st.button("7", on_click=add_number, args=(7,))
